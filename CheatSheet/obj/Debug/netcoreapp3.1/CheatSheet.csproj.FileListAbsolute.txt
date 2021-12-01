@@ -1,0 +1,14 @@
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\bin\Debug\netcoreapp3.1\CheatSheet.exe
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\bin\Debug\netcoreapp3.1\CheatSheet.deps.json
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\bin\Debug\netcoreapp3.1\CheatSheet.runtimeconfig.json
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\bin\Debug\netcoreapp3.1\CheatSheet.runtimeconfig.dev.json
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\bin\Debug\netcoreapp3.1\CheatSheet.dll
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\bin\Debug\netcoreapp3.1\CheatSheet.pdb
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.csproj.AssemblyReference.cache
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.AssemblyInfoInputs.cache
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.AssemblyInfo.cs
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.csproj.CoreCompileInputs.cache
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.dll
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.pdb
+C:\Users\alain\Meine Ablage\Informatik 1.Sem\CheatSheet\CheatSheet\obj\Debug\netcoreapp3.1\CheatSheet.genruntimeconfig.cache
