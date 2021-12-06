@@ -36,7 +36,7 @@ namespace CheatSheet
             Math.Pow(x.y);    = Power of x; x mit Potenz y; z.b x=5, y=2 = 25
             Math.Abs(x);      = Die Absolute Funktion nimmt einen Wert an und gibt ihn in Positiv zurück.
             Math.Sign(x);     = Signum Funktion nimmt einnen Wert an und gibt entweder -1, 0 oder 1 zurück. Wenn der Wert (x) negativ
-                               ist, bekommt man als Rückgabewert -1 zurück. Wenn der Wert positiv ist, bekommt man eine 1.
+                                ist, bekommt man als Rückgabewert -1 zurück. Wenn der Wert positiv ist, bekommt man eine 1.
                                 bei einem Wert von 0 ist auch der Rückgabewert 0.
             Math.sqrt(x)      = Die "Squerroot" Funktion gibt einem die Quadratwurzel einer eingegebener Zahl zurück.
             Math.Round(x,y)   = Diese Methode benutzt man zum Runden auf eine gegeben Nachkommastelle.
