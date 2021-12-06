@@ -29,10 +29,23 @@ namespace CheatSheet
             Console.WriteLine($"{x}");
             Console.WriteLine(""+x);
             Console.WriteLine("{0}",x);
+            
+            //__________________________________________________________________________________________________________________________
+
+            Math:
+            Math.Pow(x.y);    = Power of x; x mit Potenz y; z.b x=5, y=2 = 25
+            Math.Abs(x);      = Die Absolute Funktion nimmt einen Wert an und gibt ihn in Positiv zurück.
+            Math.Sign(x);     = Signum Funktion nimmt einnen Wert an und gibt entweder -1, 0 oder 1 zurück. Wenn der Wert (x) negativ
+                               ist, bekommt man als Rückgabewert -1 zurück. Wenn der Wert positiv ist, bekommt man eine 1.
+                                bei einem Wert von 0 ist auch der Rückgabewert 0.
+            Math.sqrt(x)      = Die "Squerroot" Funktion gibt einem die Quadratwurzel einer eingegebener Zahl zurück.
+            Math.Round(x,y)   = Diese Methode benutzt man zum Runden auf eine gegeben Nachkommastelle.
+                                Der erste Parameter ist die Zahl und der zweiter Parameter ist die gewünschte Nachkommastelle.
+            Math.Ceiling(x);  = Die " Dacj" Funktion rundet eine gebene Zahl auf die letzte Ganzzahl ab.
+            Math.Floor(x)     = Die "Boden" Funktin rundet eine gebene Zahl aud die letzte Ganzzahl ab.
             */
 
-
-            /*                  //<--------Hier löschen um die Aufgaben in Farbe zu sehen!!!
+                         //<--------Hier löschen um die Aufgaben in Farbe zu sehen!!!
             while (true)
             {   
                 //_______________________________________________________________________________________________________________________
@@ -133,7 +146,7 @@ namespace CheatSheet
             }
             
             //_______________________________________________________________________________________________________________________________
-            // While SChleife!!!
+            // While SChleife
 
             int x = 0;
 
@@ -182,8 +195,8 @@ namespace CheatSheet
             product[3] = "Sesam";
 
             foreach (string i in product) //string kann auch mit var ersetzt werden, var übernimmt die Speicherart automatisch
-            {
-                Console.WriteLine(i);
+            {                            // der var i nimmt in jedem Schleifendurchlauf, den Wert des Arrayinhalts und gibt ihn mit dem cw heraus. 
+                Console.WriteLine(i);   
             }
            
             //________________________________________________________________________________________________________________________________
